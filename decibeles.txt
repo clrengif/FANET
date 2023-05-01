@@ -1,0 +1,4 @@
+z=[]
+plot(log10(z/max(z))*10)
+
+https://www.msn.com/es-co/estilo-de-vida/moda-y-belleza/viajero-en-el-tiempo-afirma-que-en-el-2023a%C3%B1o-ocurrir%C3%A1-una-purga-global/ar-AA12ocbV?ocid=msedgntp&cvid=30d240a42e46490dae28a545ceb27aac
